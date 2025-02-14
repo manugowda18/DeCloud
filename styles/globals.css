@@ -1,0 +1,39 @@
+@import url("../public/assets/css/backend-plugin.min.css");
+@import url("../public/assets/css/backend.css?v=1.0.0");
+@import url("../public/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css");
+@import url("../public/assets/vendor/line-awesome/dist/line-awesome/css/line-awesome.min.css");
+@import url("../public/assets/vendor/remixicon/fonts/remixicon.css");
+@import url("../public/assets/vendor/doc-viewer/include/pdf/pdf.viewer.css");
+@import url("../public/assets/vendor/doc-viewer/include/PPTXjs/css/pptxjs.css");
+@import url("../public/assets/vendor/doc-viewer/include/PPTXjs/css/nv.d3.min.css");
+@import url("../public/assets/vendor/doc-viewer/include/SheetJS/handsontable.full.min.css");
+@import url("../public/assets/vendor/doc-viewer/include/verySimpleImageViewer/css/jquery.verySimpleImageViewer.css");
+@import url("../public/assets/vendor/doc-viewer/include/officeToHtml/officeToHtml.css");
+
+/* //NEW SIDEBAR */
+
+.sidebar-new {
+  overflow-y: auto;
+}
+
+.video-width-new {
+  width: 100%;
+}
+
+.image-width-new {
+  text-align: center;
+  margin-bottom: 1rem;
+  z-index: 11111;
+}
+.image-width-new-img {
+  width: 50%;
+  height: auto;
+}
+.margin-new {
+  margin-left: 4rem;
+}
+
+.pdf-file {
+  width: 100%;
+  height: 70vh;
+}
