@@ -8,12 +8,6 @@ CryptoRights is a revolutionary blockchain decentralized application (Dapp) desi
 
 Kindly follow the following Instruction to run the project in your system and install the neccessary requirments
 
-#### Setup Video
-
-```https://code.visualstudio.com/download
-
-```
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
